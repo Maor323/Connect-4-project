@@ -49,6 +49,7 @@ int main()
 	//clearAndPrint();
 	if(win==false)
 		printf("IT'S A TIE!!");
+	sleep(5);
 }
 
 /********** Implementations **********/
